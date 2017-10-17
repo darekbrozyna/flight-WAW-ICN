@@ -2,7 +2,7 @@
 
 ## Data set
 
-Data set <code>flights-WAW-ICN.csv</code> contains 7306 rows of data:
+Data set <code>flights-WAW-ICN.csv</code> contains 7009 rows of data:
 
 * dateFrom - date of departure from WAW to ICN.
 * dateTo - date of return from ICN to WAW.
